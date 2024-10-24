@@ -1,0 +1,2 @@
+[8] Inimigo de indice 2 da fileira 1 colidiu na lateral direita.
+[25] Inimigo de indice 1 da fileira 1 colidiu na lateral esquerda.

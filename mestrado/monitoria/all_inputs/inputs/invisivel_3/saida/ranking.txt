@@ -1,0 +1,4 @@
+indice,fileira,linha,iteracao
+1,2,4,18
+2,1,7,30
+1,1,9,36

@@ -1,0 +1,45 @@
+[1] Inimigo de indice 1 da fileira 3 foi atingido na posicao (10 9).
+[9] Inimigo de indice 1 da fileira 1 colidiu na lateral direita.
+[9] Inimigo de indice 1 da fileira 2 colidiu na lateral direita.
+[10] Jogador colidiu na lateral esquerda.
+[11] Jogador colidiu na lateral esquerda.
+[12] Jogador colidiu na lateral esquerda.
+[13] Jogador colidiu na lateral esquerda.
+[14] Jogador colidiu na lateral esquerda.
+[15] Jogador colidiu na lateral esquerda.
+[16] Jogador colidiu na lateral esquerda.
+[27] Inimigo de indice 1 da fileira 1 colidiu na lateral esquerda.
+[27] Inimigo de indice 1 da fileira 2 colidiu na lateral esquerda.
+[31] Inimigo de indice 1 da fileira 2 foi atingido na posicao (4 8).
+[33] Jogador colidiu na lateral esquerda.
+[34] Jogador colidiu na lateral esquerda.
+[35] Jogador colidiu na lateral esquerda.
+[36] Jogador colidiu na lateral esquerda.
+[37] Jogador colidiu na lateral esquerda.
+[38] Jogador colidiu na lateral esquerda.
+[39] Jogador colidiu na lateral esquerda.
+[40] Jogador colidiu na lateral esquerda.
+[41] Jogador colidiu na lateral esquerda.
+[42] Jogador colidiu na lateral esquerda.
+[43] Jogador colidiu na lateral esquerda.
+[44] Jogador colidiu na lateral esquerda.
+[45] Jogador colidiu na lateral esquerda.
+[45] Inimigo de indice 1 da fileira 1 colidiu na lateral direita.
+[46] Jogador colidiu na lateral esquerda.
+[47] Jogador colidiu na lateral esquerda.
+[48] Jogador colidiu na lateral esquerda.
+[49] Jogador colidiu na lateral esquerda.
+[50] Jogador colidiu na lateral esquerda.
+[52] Jogador colidiu na lateral esquerda.
+[53] Jogador colidiu na lateral esquerda.
+[54] Jogador colidiu na lateral esquerda.
+[55] Jogador colidiu na lateral esquerda.
+[56] Jogador colidiu na lateral esquerda.
+[57] Jogador colidiu na lateral esquerda.
+[58] Jogador colidiu na lateral esquerda.
+[59] Jogador colidiu na lateral esquerda.
+[60] Jogador colidiu na lateral esquerda.
+[61] Jogador colidiu na lateral esquerda.
+[63] Jogador colidiu na lateral esquerda.
+[63] Inimigo de indice 1 da fileira 1 colidiu na lateral esquerda.
+[64] Inimigo de indice 1 da fileira 1 foi atingido na posicao (2 7).

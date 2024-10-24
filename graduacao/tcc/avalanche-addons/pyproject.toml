@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "avalanche-addons"
+version = "0.1.0"
+description = ""
+authors = ["Gabriel Soares Baptista <gsoaresbaptista@gmail.com>"]
+readme = "README.md"
+packages = [{include = "avalanche_addons"}]
+
+[tool.poetry.dependencies]
+python = ">=3.10.0,<3.11"
+avalanche-lib = "^0.3.1"
+torch = "^2.0.1"
+numpy = "^1.25.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

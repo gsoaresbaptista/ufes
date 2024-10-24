@@ -1,0 +1,3 @@
+[5] Inimigo de indice 1 da fileira 1 colidiu na lateral direita.
+[16] Inimigo de indice 1 da fileira 1 colidiu na lateral esquerda.
+[21] Inimigo de indice 1 da fileira 1 foi atingido na posicao (7 4).

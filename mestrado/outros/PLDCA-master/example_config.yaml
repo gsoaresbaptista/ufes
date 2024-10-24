@@ -1,0 +1,27 @@
+model:
+  path: 'PATH_TO_MODEL_WEIGHT'
+shared:
+  dataset: 'office_home'
+  source: 'art'
+  target: 'clipart'
+  aug_num_ops: 2
+  aug_magnitude: 20
+train_settings:
+  batch_size: 128
+  lr: 0.001
+  epochs: 100
+adapt_settings:
+  batch_size: 24
+  lr: 0.001
+  epochs: 30
+  increment_cls: 10
+  reply_buffer: 10
+datasets:
+  office_home:
+    path: 'PATH_TO_OFFICE_HOME'
+    total_cls: 65
+    domain_files:
+      art: 'Art.txt'
+      clipart: 'Clipart.txt'
+      product: 'Product.txt'
+      real_world: 'Real_World.txt'
